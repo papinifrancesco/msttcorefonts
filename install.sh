@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cp -R fonts /usr/share/fonts/truetype
+cp -R fonts /usr/share/fonts/truetype/msttcorefonts
 cd /usr/share/fonts/truetype/msttcorefonts
 ln -s Andale_Mono.ttf andalemo.ttf
 ln -s Arial.ttf arial.ttf
