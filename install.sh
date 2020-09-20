@@ -1,5 +1,7 @@
-#!/bin/bash
+#!/bin/sh
 
+mkdir -p /usr/share/fonts
+mkdir -p /usr/share/fonts/truetype
 cp -R fonts /usr/share/fonts/truetype/msttcorefonts
 cd /usr/share/fonts/truetype/msttcorefonts
 ln -s Andale_Mono.ttf andalemo.ttf
