@@ -12,9 +12,11 @@ ln -s Arial_Italic.ttf ariali.ttf
 ln -s Arial_Black.ttf ariblk.ttf
 ln -s Comic_Sans_MS.ttf comic.ttf
 ln -s Comic_Sans_MS_Bold.ttf comicbd.ttf
+ln -s Courier.ttf cour.ttf
+ln -s Courier_Bold.ttf courbd.ttf
 ln -s Courier_New.ttf cour.ttf
-ln -s Courier_New_Bold.ttf courbd.ttf
-ln -s Courier_New_Bold_Italic.ttf courbi.ttf
+ln -s Courier_New_Bold.ttf cournbd.ttf
+ln -s Courier_New_Bold_Italic.ttf cournbi.ttf
 ln -s Courier_New_Italic.ttf couri.ttf
 ln -s Georgia.ttf georgia.ttf
 ln -s Georgia_Bold.ttf georgiab.ttf
