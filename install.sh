@@ -20,6 +20,8 @@ ln -s Georgia.ttf georgia.ttf
 ln -s Georgia_Bold.ttf georgiab.ttf
 ln -s Georgia_Italic.ttf georgiai.ttf
 ln -s Georgia_Bold_Italic.ttf georgiaz.ttf
+ln -s Helvetica.ttf helvetica.ttf
+ln -s Helvetica-Bold.ttf helveticab.ttf
 ln -s Impact.ttf impact.ttf
 ln -s Times_New_Roman.ttf times.ttf
 ln -s Times_New_Roman_Bold.ttf timesbd.ttf
