@@ -2,6 +2,7 @@
 
 mkdir -p /usr/share/fonts
 mkdir -p /usr/share/fonts/truetype
+rm -rf /usr/share/fonts/truetype/msttcorefonts
 cp -R fonts /usr/share/fonts/truetype/msttcorefonts
 cd /usr/share/fonts/truetype/msttcorefonts
 ln -s Andale_Mono.ttf andalemo.ttf
@@ -14,7 +15,7 @@ ln -s Comic_Sans_MS.ttf comic.ttf
 ln -s Comic_Sans_MS_Bold.ttf comicbd.ttf
 ln -s Courier.ttf cour.ttf
 ln -s Courier_Bold.ttf courbd.ttf
-ln -s Courier_New.ttf cour.ttf
+ln -s Courier_New.ttf courn.ttf
 ln -s Courier_New_Bold.ttf cournbd.ttf
 ln -s Courier_New_Bold_Italic.ttf cournbi.ttf
 ln -s Courier_New_Italic.ttf couri.ttf
